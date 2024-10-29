@@ -9,13 +9,15 @@ __BetterCommands__
 
 BetterCommands is an open source, community-led mod for Hypixel Skyblock.
 
+BetterCommands also shows any item's uuid, timestamp and much more!
 
 BetterCommands also includes qol features such as: 
--Dungeon secret routes (routes recorded by cata 61) COMING SOON
--Slayer qol COMING SOON
--Farming qol COMING SOON
--Dungeons qol COMING SOON
--Party commands such as (!warp, !party, !disband)
+
+Dungeon secret routes (routes recorded by cata 61) COMING SOON
+Slayer qol COMING SOON
+Farming qol COMING SOON
+Dungeons qol COMING SOON
+Party commands such as (!warp, !party, !disband)
 
 
 
